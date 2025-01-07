@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common ActionScript bug related to score display and its improved solution.  The bug involves improper handling of NaN, Infinity, and non-integer scores, which can lead to unexpected display values. The solution demonstrates robust handling of these scenarios.
